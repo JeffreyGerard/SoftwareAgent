@@ -1,0 +1,5 @@
+python-dotenv
+httpx
+google-auth
+google-auth-oauthlib
+google-adk
